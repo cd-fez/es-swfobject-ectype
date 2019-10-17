@@ -1,6 +1,6 @@
 {
   "name": "es-swfobject-ectype",
-  "version": "3.0.0",
+  "version": "3.0.0-custom-aia-patch1",
   "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
   "main": "index.js",
   "scripts": {
