@@ -1,0 +1,27 @@
+{
+  "name": "es-swfobject-ectype",
+  "version": "3.0.0",
+  "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/cd-fez/es-swfobject-ectype.git"
+  },
+  "keywords": [
+    "swfobject",
+    "swfplayer",
+    "swf"
+  ],
+  "author": "fez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fyee/swfobject/issues"
+  },
+  "homepage": "https://git@github.com/cd-fez/es-swfobject-ectype.git",
+  "directories": {
+    "test": "test"
+  }
+}
