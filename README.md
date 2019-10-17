@@ -1,4 +1,4 @@
-# es-swfobject
+# es-swfobject-ectype
 
 This repository is a fork of https://github.com/swfobject/swfobject/ and publish the Version of 3.0 fix bug that remove 'argument.callee' calling in v2.2 with is forbidden is ES6. We add function name with Anonymous function
 
@@ -13,7 +13,7 @@ This module is intended to be used in browserify and can therefor be installed
 using npm:
 
 ```
-npm install --save es-swfobject
+npm install --save es-swfobject-ectype
 ```
 
 ## Versioning
